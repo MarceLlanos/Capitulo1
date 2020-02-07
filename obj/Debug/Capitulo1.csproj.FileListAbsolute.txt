@@ -1,0 +1,7 @@
+C:\Users\marcela.llanos\source\repos\Capitulo1\Capitulo1\bin\Debug\Capitulo1.exe.config
+C:\Users\marcela.llanos\source\repos\Capitulo1\Capitulo1\bin\Debug\Capitulo1.exe
+C:\Users\marcela.llanos\source\repos\Capitulo1\Capitulo1\bin\Debug\Capitulo1.pdb
+C:\Users\marcela.llanos\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.csprojAssemblyReference.cache
+C:\Users\marcela.llanos\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.csproj.CoreCompileInputs.cache
+C:\Users\marcela.llanos\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.exe
+C:\Users\marcela.llanos\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.pdb
